@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/bspen327/python-dev-ops/actions/workflows/main.yml/badge.svg)](https://github.com/bspen327/python-dev-ops/actions/workflows/main.yml)
+
 # python-dev-ops
 Zero to Hero
 
