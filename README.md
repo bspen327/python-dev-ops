@@ -32,6 +32,14 @@ Build out python project scaffold:
 - `:wq` to exit
 - open new bash and `venv` should be active
 
+3. Add packages to requirments
+
+4. Ensure Makefile is tabs:4 
+5. Add the installation of packages in the Makefile
+6. run `make install` from the directory
+
+7. Things change all the time so run a pip freeze to get the versions of the packages and add to the requirments. 
+
 ## Step 2: Command-Line Tools
 
 ## Step 3: Microservices
