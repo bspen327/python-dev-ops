@@ -40,7 +40,7 @@ Build out python project scaffold:
 5. Add the installation of packages in the Makefile
 6. run `make install` from the directory
 
-7. Things change all the time so run a pip freeze to get the versions of the packages and add to the requirments. 
+7. Things change all the time so run a pip freeze to get the versions of the packages and add to the requirments. This pins them down! 
 
 ## Step 2: Command-Line Tools
 
