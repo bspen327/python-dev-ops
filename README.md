@@ -17,7 +17,7 @@ Build out python project scaffold:
 * Makefile (cookbook)
 * requirements.txt (packages)
 * test_library.py
-* python_library
+* python_library (devopslib)
 * Dockerfile (containers)
 * command-line-tool
 * Microservice
@@ -41,6 +41,12 @@ Build out python project scaffold:
 6. run `make install` from the directory
 
 7. Things change all the time so run a pip freeze to get the versions of the packages and add to the requirments. This pins them down! 
+
+### Steps to run
+1. Create a virtualenv: `virtualenv ~/.venv` or `python3 -m venv .venv`
+2. Edit bashrc file:  `source ./venv/bin/activate`
+3. Clone project then run `make all`
+
 
 ## Step 2: Command-Line Tools
 
